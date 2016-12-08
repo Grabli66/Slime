@@ -1,0 +1,8 @@
+-cp src
+-cp src/Physics
+-cp ../Common/src
+-cp ../Common/src/Packets
+-lib signal
+-lib nape
+-main Main
+-cpp bin

@@ -1,0 +1,5 @@
+-cp Common
+-lib hxbolts
+-lib nape
+-main SlimeProtocol
+-cpp bin

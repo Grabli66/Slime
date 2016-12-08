@@ -1,0 +1,6 @@
+-cp src
+-cp src/Packets
+-cp src/SlimeClient
+-cp test
+-main Test
+-cpp bin
